@@ -19,7 +19,7 @@ To submit your flag for a challenge, use the **COTD25** bot with its slash comma
    ```
    /submit_flag flag: cotd{hello}
    ```
-<img width="758" height="186" alt="image" src="https://github.com/user-attachments/assets/b201a822-86c2-464d-bd16-5b8b5274248f" />
+![submit_flag](https://github.com/user-attachments/assets/b201a822-86c2-464d-bd16-5b8b5274248f)
 
 3. Once submitted, the bot will check if your flag is correct and let you know the result.
 
