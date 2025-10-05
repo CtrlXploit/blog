@@ -4,7 +4,7 @@ On opening the website we see some information about our username and a random s
 
 We also know that the flag is in `/app/flag.txt`
 
-<img width="750" height="228" alt="image" src="https://github.com/user-attachments/assets/2a9c2ec3-5266-495f-90d0-f87fe00509ec" />
+![website](https://github.com/user-attachments/assets/2a9c2ec3-5266-495f-90d0-f87fe00509ec)
 
 Something that catches attention is the fact that it is reading from a file with our username and displaying its contents.
 
