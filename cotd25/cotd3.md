@@ -1,6 +1,7 @@
 # COTD#3
 
 First we extract the chall.zip and we get chall.jpg.
+
 For any forensics/steganography challenge in a CTF, it is quite useful to run the following commands -
 ```bash
 file chall.jpg 
@@ -13,6 +14,10 @@ This is a hint that tells us to use the command `strings`.
 
 ```bash
 strings chall.jpg
+```
+Looking through the output, we find a clear password.
+
+```bash
 pass: g00dp4ssw0rd
 ```
 
