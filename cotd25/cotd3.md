@@ -1,4 +1,4 @@
-# COTD 3
+# COTD#3
 
 First we extract the chall.zip and we get chall.jpg.
 For any forensics/steganography challenge in a CTF, it is quite useful to run the following commands -
