@@ -29,7 +29,8 @@ As we can see, there is another image appended to the original chall.jpg.
 
 We can extract it using `binwalk` only -
 
-```bash binwalk --dd='.*' chall.jpg```
+```bash
+binwalk --dd='.*' chall.jpg```
 
 Now there is a folder in our current working directory, that contains the appended image.
 
