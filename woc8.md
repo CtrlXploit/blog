@@ -20,7 +20,7 @@ Good luck!
 ---
 The problem statements for WOC 8.0 (Infosec Division) are:
 ---
-### Building a minimal Container runtime
+# Building a minimal Container runtime
 
 **Description:** Build a minimal container runtime similar to Docker that uses core Linux primitives to isolate and run processes. The goal is to demonstrate how containers work internally by creating a lightweight system that launches applications inside independent namespaces and a custom root filesystem.
 
@@ -44,7 +44,7 @@ The problem statements for WOC 8.0 (Infosec Division) are:
 - docker implementation in C for reference: https://github.com/ananthvk/docker-clone
 
 ---
-### Developing Malware for Real-Time Network Monitoring and Keystroke Capture to Secure User Credentials
+# Developing Malware for Real-Time Network Monitoring and Keystroke Capture to Secure User Credentials
 
 **Description:** Design a malware system that captures and monitors user activity on specific websites to secure credentials while remaining undetected by security tools.
 
@@ -55,7 +55,7 @@ The problem statements for WOC 8.0 (Infosec Division) are:
 - Optional Features: Clearing saved passwords to prompt re-entry, anti-detection mechanisms, and additional innovative features.
 
 ---
-### End-to-End Encrypted Web-Based File Storage and Sharing Platform
+# End-to-End Encrypted Web-Based File Storage and Sharing Platform
 
 **Description:** Build a secure, browser-accessible platform that allows users to upload, store, organize, and share files while ensuring strong authentication, access control, and encryption. The system must provide a private, secure alternative to traditional cloud storage.
 
@@ -69,7 +69,7 @@ The problem statements for WOC 8.0 (Infosec Division) are:
 
 ---
 
-### Universal Steganography Tool
+# Universal Steganography Tool
 
 **Description:** Develop a universal steganography toolkit capable of automatically identifying file types and applying relevant steganographic detection techniques. The system should unify scanning, embedding, and extraction workflows for images, audio, video, and text.
 
