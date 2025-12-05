@@ -54,6 +54,35 @@ The problem statements for WOC 8.0 (Infosec Division) are:
 - Design a user-friendly interface for administrators to monitor activities.
 - Optional Features: Clearing saved passwords to prompt re-entry, anti-detection mechanisms, and additional innovative features.
 
+**Resources:**
+- https://computer.howstuffworks.com/question525.htm
+- https://en.wikipedia.org/wiki/Network_packet
+
+Scapy :
+- https://scapy.net/
+- https://thepacketgeek.com/scapy/
+
+Python socket library :
+- https://www.tutorialspoint.com/python/python_networking.htm
+- https://docs.python.org/3/library/socket.html
+
+Flask:
+- https://flask.palletsprojects.com/en/3.0.x/quickstart/
+
+Network programming:
+- https://beej.us/guide/bgnet/
+
+Pynput
+- https://pynput.readthedocs.io/en/latest/
+
+Requests – Data Exfiltration to Remote Server
+- https://docs.python-requests.org/en/
+- https://realpython.com/python-requests/
+
+pygetwindow – Detect Active Window / Target Website
+- https://pypi.org/project/pygetwindow/
+- https://github.com/asweigart/pygetwindow
+
 ---
 # End-to-End Encrypted Web-Based File Storage and Sharing Platform
 
@@ -66,6 +95,18 @@ The problem statements for WOC 8.0 (Infosec Division) are:
 - Secure upload, download, and sharing links.
 - Detailed audit logs for all actions.
 - NOTE: The MFA code generation algorithm must be written from scratch.
+
+**Resources:**
+- Building a Web File Store | Tutorials | Docs https://docs.codecapsules.io/tutorials/building-a-web-file-store
+- Multifactor Authentication - GeeksforGeeks https://www.geeksforgeeks.org/computer-networks/multifactor-authentication/
+- What are the different ways to implement Multifactor Authentication? https://auth0.com/blog/different-ways-to-implement-multifactor/
+- https://cheatsheetseries.owasp.org/cheatsheets/Multifactor_Authentication_Cheat_Sheet.html
+- https://dev.to/varshithvhegde/how-i-created-a-file-sharing-website-using-simple-javascript-355g
+- https://www.coudo.ai/blog/design-a-secure-file-sharing-system-a-comprehensive-guide
+- https://cheatsheetseries.owasp.org/cheatsheets/File_Upload_Cheat_Sheet.html
+- https://www.hivenet.com/post/compliance-file-transfer-essential-standards-and-best-practices-for-secure-data-exchange
+- https://www.zengrc.com/blog/audit-log-best-practices-for-information-security/
+- https://whenderson.dev/blog/two-factor-authentication-from-scratch/
 
 ---
 
